@@ -1,4 +1,5 @@
 #This is a comment.
+print("Hello Narmin")
 #print(3+'3') kodunun neticesi error olacaq cunki compiler ferqli tipli deyisenlere aid etdiyi ucun tercume ede bilmeyecek.
 #print(true+1) kodunun neticesi: "true" is not defined cunki T herfi boyuk herfle yazilmalidi.
 #print(3>4 and 3+4/2) kodunun neticesi: "False" olacaq cunki 3 reqemi 4-den boyuk deyil.
