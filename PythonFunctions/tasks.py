@@ -60,14 +60,49 @@ findMiddleNumber(5,10)    """
 
 
      
+     
+"""def getNumbers(a):
+    for i in str(a):
+        print(i)
+        
+print(getNumbers(88758))
+"""      
 
 
 
 
 
+"""
+def getCountNumbers(a):
+    count=0
+    for i in str(a):
+        count+=1
+        return count
+print(getCountNumbers(8878))   """ 
 
 
 
+"""def sum(a):
+    sum=0
+    for i in str(a):
+        sum+=int(i)
+        return sum
+print(sum(88758)) 
+"""      
+
+
+"""def func():   # sahmat meselesi
+    x=range(1,65)
+    a=1
+    for n in x:
+        a=a*2
+        print(a)
+        
+print(func())"""
+
+
+
+    
 
 
 
